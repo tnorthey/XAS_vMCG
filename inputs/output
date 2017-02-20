@@ -1,0 +1,3153 @@
+
+*******************************************************************************
+                               QUANTICS version  1
+                                  Release     1
+*******************************************************************************
+
+ ------ Host: "tp-linux1" ----------Mon Feb 20 16:17:48 2017
+            
+ /home/thomas/fs-XAS-test01/pyrazine/dynamics/pyr4
+   pyrazine 4-mode multi-set, linear model, no combinations.                   
+------------------------------------------------------------------------------
+
+ Time  =       0.00 fs,       CPU =       0.04 s,    Norm    = 1.00000000
+ E-tot =   0.687531 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0000 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687531 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:1000.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:  10.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+v6a         : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+v9a         : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =       1.00 fs,       CPU =       0.06 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0004 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:1003.7306   0.0873   0.0296
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.9982   0.0014   0.0005
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0295  <dq>=   0.7005  <p>=  -0.3038  <dp>=   0.7138
+v6a         : <q>=  -0.0102  <dq>=   0.7002  <p>=  -0.1810  <dp>=   0.7141
+v9a         : <q>=  -0.0087  <dq>=   0.7000  <p>=  -0.0728  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =       2.00 fs,       CPU =       0.07 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0009 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:1045.3994   1.6388   0.1213
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.9770   0.0214   0.0016
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.1168  <dq>=   0.7018  <p>=  -0.5962  <dp>=   0.7125
+v6a         : <q>=  -0.0406  <dq>=   0.7006  <p>=  -0.3598  <dp>=   0.7137
+v9a         : <q>=  -0.0344  <dq>=   0.7000  <p>=  -0.1416  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =       3.00 fs,       CPU =       0.08 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0011 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:1336.2009  27.5426   0.9076
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.7117   0.2772   0.0112
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.2587  <dq>=   0.7039  <p>=  -0.8664  <dp>=   0.7104
+v6a         : <q>=  -0.0909  <dq>=   0.7014  <p>=  -0.5339  <dp>=   0.7129
+v9a         : <q>=  -0.0755  <dq>=   0.7000  <p>=  -0.2023  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =       4.00 fs,       CPU =       0.10 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0010 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:2260.8523 433.2851   5.0284
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   8.3916   1.5621   0.0463
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.4498  <dq>=   0.7065  <p>=  -1.1043  <dp>=   0.7079
+v6a         : <q>=  -0.1604  <dq>=   0.7024  <p>=  -0.7014  <dp>=   0.7119
+v9a         : <q>=  -0.1298  <dq>=   0.7000  <p>=  -0.2516  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =       5.00 fs,       CPU =       0.10 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0010 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:1007.9740 168.0619  22.8784
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.0198   0.9124   0.0678
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.6832  <dq>=   0.7092  <p>=  -1.3011  <dp>=   0.7052
+v6a         : <q>=  -0.2483  <dq>=   0.7037  <p>=  -0.8600  <dp>=   0.7106
+v9a         : <q>=  -0.1943  <dq>=   0.7000  <p>=  -0.2867  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =       6.00 fs,       CPU =       0.11 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0010 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:1131.0257 113.3582 105.6050
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.8802   0.5153  -0.3956
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.9500  <dq>=   0.7116  <p>=  -1.4493  <dp>=   0.7028
+v6a         : <q>=  -0.3534  <dq>=   0.7052  <p>=  -1.0077  <dp>=   0.7092
+v9a         : <q>=  -0.2652  <dq>=   0.7000  <p>=  -0.3056  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =       7.00 fs,       CPU =       0.12 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0011 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:4805.3022  88.28512153.5864
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:  14.9492   0.7743  -5.7234
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.2403  <dq>=   0.7133  <p>=  -1.5435  <dp>=   0.7010
+v6a         : <q>=  -0.4744  <dq>=   0.7067  <p>=  -1.1427  <dp>=   0.7076
+v9a         : <q>=  -0.3385  <dq>=   0.7000  <p>=  -0.3072  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =       8.00 fs,       CPU =       0.16 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0011 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:2286.5493  73.33101390.7593
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   5.6842   0.8693   3.4465
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.5433  <dq>=   0.7141  <p>=  -1.5801  <dp>=   0.7002
+v6a         : <q>=  -0.6098  <dq>=   0.7083  <p>=  -1.2633  <dp>=   0.7061
+v9a         : <q>=  -0.4101  <dq>=   0.7000  <p>=  -0.2915  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =       9.00 fs,       CPU =       0.17 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0010 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 688.9387  62.6919 269.0636
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   6.7045   1.0100   2.2855
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.8476  <dq>=   0.7139  <p>=  -1.5578  <dp>=   0.7004
+v6a         : <q>=  -0.7579  <dq>=   0.7098  <p>=  -1.3679  <dp>=   0.7046
+v9a         : <q>=  -0.4761  <dq>=   0.7000  <p>=  -0.2593  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      10.00 fs,       CPU =       0.18 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0010 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 503.4456  53.9816 151.9380
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   7.2804   0.9493   1.7703
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.1421  <dq>=   0.7126  <p>=  -1.4774  <dp>=   0.7017
+v6a         : <q>=  -0.9167  <dq>=   0.7111  <p>=  -1.4553  <dp>=   0.7032
+v9a         : <q>=  -0.5325  <dq>=   0.7000  <p>=  -0.2125  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      11.00 fs,       CPU =       0.18 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0010 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 454.7952  45.9911 111.2967
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   7.7593   0.7810   1.4597
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.4156  <dq>=   0.7106  <p>=  -1.3419  <dp>=   0.7037
+v6a         : <q>=  -1.0844  <dq>=   0.7123  <p>=  -1.5243  <dp>=   0.7021
+v9a         : <q>=  -0.5764  <dq>=   0.7000  <p>=  -0.1537  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      12.00 fs,       CPU =       0.18 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0010 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 468.7114  37.2043  93.1808
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   8.2520   0.5286   1.2194
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.6579  <dq>=   0.7081  <p>=  -1.1564  <dp>=   0.7063
+v6a         : <q>=  -1.2587  <dq>=   0.7132  <p>=  -1.5740  <dp>=   0.7012
+v9a         : <q>=  -0.6051  <dq>=   0.7000  <p>=  -0.0862  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      13.00 fs,       CPU =       0.19 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0011 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 542.0526  24.9701  85.2089
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   8.7765   0.2337   0.9897
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.8601  <dq>=   0.7054  <p>=  -0.9278  <dp>=   0.7090
+v6a         : <q>=  -1.4376  <dq>=   0.7137  <p>=  -1.6039  <dp>=   0.7006
+v9a         : <q>=  -0.6170  <dq>=   0.7000  <p>=  -0.0138  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      14.00 fs,       CPU =       0.20 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0012 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 634.2012   8.7982  79.0436
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.1112   0.0502   0.8386
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.0145  <dq>=   0.7029  <p>=  -0.6645  <dp>=   0.7114
+v6a         : <q>=  -1.6186  <dq>=   0.7140  <p>=  -1.6135  <dp>=   0.7003
+v9a         : <q>=  -0.6116  <dq>=   0.7000  <p>=   0.0594  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      15.00 fs,       CPU =       0.20 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0013 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 629.5597   0.7575  66.9747
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.1140   0.0059   0.8801
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.1155  <dq>=   0.7011  <p>=  -0.3765  <dp>=   0.7133
+v6a         : <q>=  -1.7996  <dq>=   0.7139  <p>=  -1.6027  <dp>=   0.7004
+v9a         : <q>=  -0.5890  <dq>=   0.7000  <p>=   0.1292  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      16.00 fs,       CPU =       0.22 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0014 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 613.3616   0.0177  56.4703
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.1662   0.0002   0.8336
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.1593  <dq>=   0.7001  <p>=  -0.0745  <dp>=   0.7142
+v6a         : <q>=  -1.9782  <dq>=   0.7134  <p>=  -1.5718  <dp>=   0.7009
+v9a         : <q>=  -0.5506  <dq>=   0.7000  <p>=   0.1917  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      17.00 fs,       CPU =       0.22 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0014 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 621.4388   0.0058  48.5162
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.2708   0.0001   0.7291
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.1442  <dq>=   0.7000  <p>=   0.2303  <dp>=   0.7143
+v6a         : <q>=  -2.1523  <dq>=   0.7127  <p>=  -1.5209  <dp>=   0.7016
+v9a         : <q>=  -0.4986  <dq>=   0.7000  <p>=   0.2434  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      18.00 fs,       CPU =       0.22 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0014 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 636.7822   0.0736  42.5476
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.3559   0.0008   0.6433
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.0707  <dq>=   0.7007  <p>=   0.5266  <dp>=   0.7136
+v6a         : <q>=  -2.3195  <dq>=   0.7117  <p>=  -1.4509  <dp>=   0.7027
+v9a         : <q>=  -0.4358  <dq>=   0.7000  <p>=   0.2813  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      19.00 fs,       CPU =       0.23 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0016 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 649.5921   0.9716  36.7232
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.3842   0.0126   0.6033
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.9418  <dq>=   0.7022  <p>=   0.8032  <dp>=   0.7121
+v6a         : <q>=  -2.4778  <dq>=   0.7104  <p>=  -1.3625  <dp>=   0.7039
+v9a         : <q>=  -0.3658  <dq>=   0.7000  <p>=   0.3033  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      20.00 fs,       CPU =       0.24 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0016 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 686.4670   6.0395  31.7310
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.3161   0.0966   0.5873
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.7620  <dq>=   0.7045  <p>=   1.0498  <dp>=   0.7099
+v6a         : <q>=  -2.6252  <dq>=   0.7090  <p>=  -1.2569  <dp>=   0.7054
+v9a         : <q>=  -0.2926  <dq>=   0.7000  <p>=   0.3083  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      21.00 fs,       CPU =       0.24 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0016 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 799.0692  27.8055  26.8464
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   9.0071   0.4782   0.5148
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.5382  <dq>=   0.7071  <p>=   1.2573  <dp>=   0.7073
+v6a         : <q>=  -2.7598  <dq>=   0.7075  <p>=  -1.1355  <dp>=   0.7069
+v9a         : <q>=  -0.2203  <dq>=   0.7000  <p>=   0.2958  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      22.00 fs,       CPU =       0.25 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0013 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:1086.5523 146.6499  20.5328
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   7.7923   1.8888   0.3189
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.2787  <dq>=   0.7097  <p>=   1.4180  <dp>=   0.7046
+v6a         : <q>=  -2.8800  <dq>=   0.7059  <p>=  -0.9997  <dp>=   0.7084
+v9a         : <q>=  -0.1530  <dq>=   0.7000  <p>=   0.2666  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      23.00 fs,       CPU =       0.26 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0015 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:1081.5609 913.6360  12.5682
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   3.5640   6.3081   0.1279
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.9931  <dq>=   0.7120  <p>=   1.5257  <dp>=   0.7024
+v6a         : <q>=  -2.9842  <dq>=   0.7044  <p>=  -0.8513  <dp>=   0.7099
+v9a         : <q>=  -0.0945  <dq>=   0.7000  <p>=   0.2223  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      24.00 fs,       CPU =       0.28 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0013 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 281.8203 888.3647   5.4778
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   1.8400   8.1185   0.0416
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.6922  <dq>=   0.7135  <p>=   1.5766  <dp>=   0.7008
+v6a         : <q>=  -3.0710  <dq>=   0.7031  <p>=  -0.6922  <dp>=   0.7112
+v9a         : <q>=  -0.0481  <dq>=   0.7000  <p>=   0.1655  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      25.00 fs,       CPU =       0.28 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0013 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4: 122.4134 784.9778   1.5635
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   1.1912   8.7967   0.0120
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.3871  <dq>=   0.7141  <p>=   1.5686  <dp>=   0.7002
+v6a         : <q>=  -3.1395  <dq>=   0.7019  <p>=  -0.5243  <dp>=   0.7124
+v9a         : <q>=  -0.0164  <dq>=   0.7000  <p>=   0.0993  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      26.00 fs,       CPU =       0.29 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0013 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:  67.7383 729.1763   0.2870
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.8093   9.1882   0.0025
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.0892  <dq>=   0.7137  <p>=   1.5022  <dp>=   0.7006
+v6a         : <q>=  -3.1887  <dq>=   0.7011  <p>=  -0.3498  <dp>=   0.7133
+v9a         : <q>=  -0.0012  <dq>=   0.7000  <p>=   0.0276  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      27.00 fs,       CPU =       0.29 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0013 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:  41.0546 713.7998   0.0376
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.5344   9.4653   0.0004
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.8097  <dq>=   0.7123  <p>=   1.3798  <dp>=   0.7020
+v6a         : <q>=  -3.2180  <dq>=   0.7005  <p>=  -0.1709  <dp>=   0.7138
+v9a         : <q>=  -0.0034  <dq>=   0.7000  <p>=  -0.0458  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      28.00 fs,       CPU =       0.30 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0012 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:  25.1216 734.8769   0.0042
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.3282   9.6717   0.0000
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.5588  <dq>=   0.7102  <p>=   1.2059  <dp>=   0.7042
+v6a         : <q>=  -3.2270  <dq>=   0.7002  <p>=   0.0102  <dp>=   0.7141
+v9a         : <q>=  -0.0228  <dq>=   0.7000  <p>=  -0.1165  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      29.00 fs,       CPU =       0.30 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0010 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:  14.6771 785.2367   0.0003
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.1840   9.8160   0.0000
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.3461  <dq>=   0.7076  <p>=   0.9871  <dp>=   0.7068
+v6a         : <q>=  -3.2157  <dq>=   0.7001  <p>=   0.1912  <dp>=   0.7142
+v9a         : <q>=  -0.0584  <dq>=   0.7000  <p>=  -0.1807  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      30.00 fs,       CPU =       0.31 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0012 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   6.7113 867.9309   0.0092
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0789   9.9210   0.0001
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.1794  <dq>=   0.7049  <p>=   0.7314  <dp>=   0.7094
+v6a         : <q>=  -3.1841  <dq>=   0.7002  <p>=   0.3697  <dp>=   0.7140
+v9a         : <q>=  -0.1081  <dq>=   0.7000  <p>=  -0.2346  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      31.00 fs,       CPU =       0.32 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0016 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   1.7186 955.7976   0.0299
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0195   9.9802   0.0003
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0650  <dq>=   0.7026  <p>=   0.4485  <dp>=   0.7117
+v6a         : <q>=  -3.1327  <dq>=   0.7006  <p>=   0.5436  <dp>=   0.7137
+v9a         : <q>=  -0.1691  <dq>=   0.7000  <p>=  -0.2753  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      32.00 fs,       CPU =       0.33 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0016 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.1581 990.8623   0.0689
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0019   9.9973   0.0008
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0070  <dq>=   0.7009  <p>=   0.1488  <dp>=   0.7134
+v6a         : <q>=  -3.0621  <dq>=   0.7012  <p>=   0.7106  <dp>=   0.7132
+v9a         : <q>=  -0.2380  <dq>=   0.7000  <p>=  -0.3005  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      33.00 fs,       CPU =       0.33 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0014 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0105 987.7349   0.2217
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9975   0.0024
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0078  <dq>=   0.7001  <p>=  -0.1564  <dp>=   0.7142
+v6a         : <q>=  -2.9733  <dq>=   0.7020  <p>=   0.8686  <dp>=   0.7124
+v9a         : <q>=  -0.3109  <dq>=   0.7000  <p>=  -0.3087  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      34.00 fs,       CPU =       0.35 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0012 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0001 993.1229   0.5894
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9940   0.0060
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0671  <dq>=   0.6999  <p>=  -0.4557  <dp>=   0.7144
+v6a         : <q>=  -2.8672  <dq>=   0.7030  <p>=   1.0157  <dp>=   0.7114
+v9a         : <q>=  -0.3837  <dq>=   0.7000  <p>=  -0.2994  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      35.00 fs,       CPU =       0.35 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0014 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00981019.1376   1.6156
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9848   0.0151
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.1829  <dq>=   0.7002  <p>=  -0.7381  <dp>=   0.7141
+v6a         : <q>=  -2.7454  <dq>=   0.7042  <p>=   1.1499  <dp>=   0.7101
+v9a         : <q>=  -0.4522  <dq>=   0.7000  <p>=  -0.2733  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      36.00 fs,       CPU =       0.36 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0021 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.03651074.4513   4.4596
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0003   9.9614   0.0382
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.3509  <dq>=   0.7008  <p>=  -0.9930  <dp>=   0.7135
+v6a         : <q>=  -2.6092  <dq>=   0.7056  <p>=   1.2696  <dp>=   0.7087
+v9a         : <q>=  -0.5127  <dq>=   0.7000  <p>=  -0.2317  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      37.00 fs,       CPU =       0.37 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0023 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.14371164.7358  11.6519
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0013   9.9123   0.0864
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.5646  <dq>=   0.7019  <p>=  -1.2108  <dp>=   0.7124
+v6a         : <q>=  -2.4605  <dq>=   0.7071  <p>=   1.3733  <dp>=   0.7073
+v9a         : <q>=  -0.5616  <dq>=   0.7000  <p>=  -0.1770  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      38.00 fs,       CPU =       0.38 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0023 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.53841340.9308  32.0870
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0048   9.8060   0.1891
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.8163  <dq>=   0.7037  <p>=  -1.3835  <dp>=   0.7106
+v6a         : <q>=  -2.3011  <dq>=   0.7086  <p>=   1.4597  <dp>=   0.7058
+v9a         : <q>=  -0.5962  <dq>=   0.7000  <p>=  -0.1123  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      39.00 fs,       CPU =       0.38 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0022 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   1.53081500.1357  76.7982
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0130   9.6387   0.3482
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.0964  <dq>=   0.7060  <p>=  -1.5046  <dp>=   0.7084
+v6a         : <q>=  -2.1330  <dq>=   0.7100  <p>=   1.5276  <dp>=   0.7044
+v9a         : <q>=  -0.6146  <dq>=   0.7000  <p>=  -0.0413  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      40.00 fs,       CPU =       0.38 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0023 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   3.66371251.7677  87.5908
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0258   9.5630   0.4112
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.3946  <dq>=   0.7084  <p>=  -1.5696  <dp>=   0.7059
+v6a         : <q>=  -1.9583  <dq>=   0.7112  <p>=   1.5762  <dp>=   0.7031
+v9a         : <q>=  -0.6157  <dq>=   0.7000  <p>=   0.0321  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      41.00 fs,       CPU =       0.39 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0022 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   7.70551055.5083  72.7541
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0369   9.5658   0.3973
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.6998  <dq>=   0.7106  <p>=  -1.5760  <dp>=   0.7037
+v6a         : <q>=  -1.7793  <dq>=   0.7123  <p>=   1.6050  <dp>=   0.7020
+v9a         : <q>=  -0.5994  <dq>=   0.7000  <p>=   0.1036  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      42.00 fs,       CPU =       0.39 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0022 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:  13.28341003.1731  60.8433
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0459   9.5373   0.4168
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.0005  <dq>=   0.7123  <p>=  -1.5237  <dp>=   0.7020
+v6a         : <q>=  -1.5982  <dq>=   0.7131  <p>=   1.6134  <dp>=   0.7012
+v9a         : <q>=  -0.5668  <dq>=   0.7000  <p>=   0.1693  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      43.00 fs,       CPU =       0.40 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0024 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:  15.5483 933.7201  50.2695
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0827   9.4185   0.4988
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.2855  <dq>=   0.7133  <p>=  -1.4146  <dp>=   0.7011
+v6a         : <q>=  -1.4173  <dq>=   0.7136  <p>=   1.6015  <dp>=   0.7007
+v9a         : <q>=  -0.5195  <dq>=   0.7000  <p>=   0.2254  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      44.00 fs,       CPU =       0.40 s,    Norm    = 1.00000000
+ E-tot =   0.687534 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0025 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687534 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:  11.9802 800.2930  41.1168
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.1097   9.3347   0.5556
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.5442  <dq>=   0.7133  <p>=  -1.2527  <dp>=   0.7010
+v6a         : <q>=  -1.2388  <dq>=   0.7138  <p>=   1.5694  <dp>=   0.7005
+v9a         : <q>=  -0.4604  <dq>=   0.7000  <p>=   0.2688  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      45.00 fs,       CPU =       0.41 s,    Norm    = 1.00000000
+ E-tot =   0.687534 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0025 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687534 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   7.6056 702.8869  34.0517
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0934   9.3640   0.5426
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.7670  <dq>=   0.7124  <p>=  -1.0441  <dp>=   0.7019
+v6a         : <q>=  -1.0651  <dq>=   0.7137  <p>=   1.5175  <dp>=   0.7006
+v9a         : <q>=  -0.3927  <dq>=   0.7000  <p>=   0.2970  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      46.00 fs,       CPU =       0.41 s,    Norm    = 1.00000000
+ E-tot =   0.687534 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0025 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687534 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   4.4941 664.3124  28.7054
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0629   9.4486   0.4886
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.9456  <dq>=   0.7107  <p>=  -0.7966  <dp>=   0.7036
+v6a         : <q>=  -0.8984  <dq>=   0.7132  <p>=   1.4464  <dp>=   0.7011
+v9a         : <q>=  -0.3202  <dq>=   0.7000  <p>=   0.3085  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      47.00 fs,       CPU =       0.42 s,    Norm    = 1.00000000
+ E-tot =   0.687534 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0025 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687534 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   2.4658 670.5645  24.5216
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0355   9.5475   0.4170
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.0733  <dq>=   0.7085  <p>=  -0.5194  <dp>=   0.7058
+v6a         : <q>=  -0.7406  <dq>=   0.7124  <p>=   1.3570  <dp>=   0.7019
+v9a         : <q>=  -0.2471  <dq>=   0.7000  <p>=   0.3025  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      48.00 fs,       CPU =       0.42 s,    Norm    = 1.00000000
+ E-tot =   0.687534 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0024 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687534 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   1.1845 710.1541  21.0952
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0163   9.6445   0.3392
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.1453  <dq>=   0.7061  <p>=  -0.2228  <dp>=   0.7083
+v6a         : <q>=  -0.5939  <dq>=   0.7113  <p>=   1.2505  <dp>=   0.7030
+v9a         : <q>=  -0.1775  <dq>=   0.7000  <p>=   0.2794  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      49.00 fs,       CPU =       0.42 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0024 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.4516 773.9731  18.1407
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0056   9.7324   0.2619
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.1589  <dq>=   0.7038  <p>=   0.0821  <dp>=   0.7106
+v6a         : <q>=  -0.4600  <dq>=   0.7101  <p>=   1.1282  <dp>=   0.7043
+v9a         : <q>=  -0.1152  <dq>=   0.7000  <p>=   0.2405  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      50.00 fs,       CPU =       0.44 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0023 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.1224 852.9966  15.3144
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0014   9.8071   0.1916
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.1137  <dq>=   0.7019  <p>=   0.3839  <dp>=   0.7124
+v6a         : <q>=  -0.3407  <dq>=   0.7086  <p>=   0.9917  <dp>=   0.7057
+v9a         : <q>=  -0.0639  <dq>=   0.7000  <p>=   0.1881  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      51.00 fs,       CPU =       0.44 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0022 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0246 940.8271  12.0108
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0003   9.8694   0.1303
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.0113  <dq>=   0.7007  <p>=   0.6714  <dp>=   0.7136
+v6a         : <q>=  -0.2375  <dq>=   0.7071  <p>=   0.8426  <dp>=   0.7072
+v9a         : <q>=  -0.0265  <dq>=   0.7000  <p>=   0.1250  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      52.00 fs,       CPU =       0.45 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0021 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00571021.3906   7.7159
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9242   0.0758
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.8556  <dq>=   0.7002  <p>=   0.9339  <dp>=   0.7141
+v6a         : <q>=  -0.1517  <dq>=   0.7056  <p>=   0.6829  <dp>=   0.7087
+v9a         : <q>=  -0.0049  <dq>=   0.7000  <p>=   0.0549  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      53.00 fs,       CPU =       0.46 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0016 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00211058.4985   3.5596
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9663   0.0337
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.6523  <dq>=   0.7000  <p>=   1.1616  <dp>=   0.7143
+v6a         : <q>=  -0.0843  <dq>=   0.7042  <p>=   0.5146  <dp>=   0.7101
+v9a         : <q>=  -0.0005  <dq>=   0.7000  <p>=  -0.0183  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      54.00 fs,       CPU =       0.47 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0011 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00081050.7620   1.2285
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9882   0.0117
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.4091  <dq>=   0.7000  <p>=   1.3459  <dp>=   0.7143
+v6a         : <q>=  -0.0362  <dq>=   0.7030  <p>=   0.3398  <dp>=   0.7114
+v9a         : <q>=  -0.0136  <dq>=   0.7000  <p>=  -0.0905  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      55.00 fs,       CPU =       0.47 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0008 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00041029.7801   0.3576
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9965   0.0035
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.1350  <dq>=   0.7000  <p>=   1.4801  <dp>=   0.7143
+v6a         : <q>=  -0.0080  <dq>=   0.7019  <p>=   0.1607  <dp>=   0.7125
+v9a         : <q>=  -0.0433  <dq>=   0.7000  <p>=  -0.1576  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      56.00 fs,       CPU =       0.48 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0010 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00081015.0615   0.1137
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9989   0.0011
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.8402  <dq>=   0.7002  <p>=   1.5590  <dp>=   0.7141
+v6a         : <q>=  -0.0001  <dq>=   0.7010  <p>=  -0.0204  <dp>=   0.7133
+v9a         : <q>=  -0.0879  <dq>=   0.7000  <p>=  -0.2158  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      57.00 fs,       CPU =       0.49 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0013 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00121009.8658   0.0814
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9992   0.0008
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.5357  <dq>=   0.7006  <p>=   1.5799  <dp>=   0.7137
+v6a         : <q>=  -0.0126  <dq>=   0.7003  <p>=  -0.2013  <dp>=   0.7140
+v9a         : <q>=  -0.1451  <dq>=   0.7000  <p>=  -0.2618  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      58.00 fs,       CPU =       0.50 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0013 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00091008.1535   0.2369
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9977   0.0023
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.2329  <dq>=   0.7016  <p>=   1.5418  <dp>=   0.7127
+v6a         : <q>=  -0.0453  <dq>=   0.6999  <p>=  -0.3796  <dp>=   0.7144
+v9a         : <q>=  -0.2115  <dq>=   0.7000  <p>=  -0.2930  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      59.00 fs,       CPU =       0.50 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0012 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0008 983.9528   1.1195
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9886   0.0114
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.9430  <dq>=   0.7033  <p>=   1.4462  <dp>=   0.7110
+v6a         : <q>=  -0.0978  <dq>=   0.6997  <p>=  -0.5532  <dp>=   0.7146
+v9a         : <q>=  -0.2834  <dq>=   0.7000  <p>=  -0.3076  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      60.00 fs,       CPU =       0.51 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0012 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0010 917.3823   3.6209
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9606   0.0394
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.6769  <dq>=   0.7055  <p>=   1.2967  <dp>=   0.7088
+v6a         : <q>=  -0.1694  <dq>=   0.6997  <p>=  -0.7197  <dp>=   0.7146
+v9a         : <q>=  -0.3567  <dq>=   0.7000  <p>=  -0.3049  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      61.00 fs,       CPU =       0.51 s,    Norm    = 1.00000000
+ E-tot =   0.687532 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0013 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687532 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0013 846.6114   7.7868
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9087   0.0913
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.4445  <dq>=   0.7079  <p>=   1.0989  <dp>=   0.7064
+v6a         : <q>=  -0.2593  <dq>=   0.6998  <p>=  -0.8772  <dp>=   0.7145
+v9a         : <q>=  -0.4273  <dq>=   0.7000  <p>=  -0.2850  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      62.00 fs,       CPU =       0.52 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0015 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0018 802.4968  13.5562
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.8336   0.1664
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.2545  <dq>=   0.7102  <p>=   0.8601  <dp>=   0.7041
+v6a         : <q>=  -0.3662  <dq>=   0.6999  <p>=  -1.0236  <dp>=   0.7144
+v9a         : <q>=  -0.4912  <dq>=   0.7000  <p>=  -0.2490  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      63.00 fs,       CPU =       0.53 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0018 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0024 789.6971  21.8721
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.7301   0.2698
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.1139  <dq>=   0.7121  <p>=   0.5892  <dp>=   0.7023
+v6a         : <q>=  -0.4890  <dq>=   0.7000  <p>=  -1.1571  <dp>=   0.7143
+v9a         : <q>=  -0.5448  <dq>=   0.7000  <p>=  -0.1989  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      64.00 fs,       CPU =       0.53 s,    Norm    = 1.00000000
+ E-tot =   0.687533 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0022 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687533 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0030 814.0320  35.6113
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.5804   0.4195
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0280  <dq>=   0.7132  <p>=   0.2963  <dp>=   0.7012
+v6a         : <q>=  -0.6259  <dq>=   0.7001  <p>=  -1.2759  <dp>=   0.7142
+v9a         : <q>=  -0.5850  <dq>=   0.7000  <p>=  -0.1375  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      65.00 fs,       CPU =       0.54 s,    Norm    = 1.00000000
+ E-tot =   0.687534 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0026 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687534 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0037 908.2640  64.0248
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.3410   0.6589
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0000  <dq>=   0.7134  <p>=  -0.0076  <dp>=   0.7010
+v6a         : <q>=  -0.7752  <dq>=   0.7003  <p>=  -1.3787  <dp>=   0.7140
+v9a         : <q>=  -0.6097  <dq>=   0.7000  <p>=  -0.0684  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      66.00 fs,       CPU =       0.54 s,    Norm    = 1.00000000
+ E-tot =   0.687534 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0031 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687534 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00441252.1770 154.3309
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   8.9023   1.0976
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0309  <dq>=   0.7127  <p>=  -0.3112  <dp>=   0.7017
+v6a         : <q>=  -0.9352  <dq>=   0.7005  <p>=  -1.4640  <dp>=   0.7138
+v9a         : <q>=  -0.6173  <dq>=   0.7000  <p>=   0.0045  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      67.00 fs,       CPU =       0.56 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0034 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00492857.8670 491.7711
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   8.5340   1.4660
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.1196  <dq>=   0.7111  <p>=  -0.6033  <dp>=   0.7033
+v6a         : <q>=  -1.1037  <dq>=   0.7006  <p>=  -1.5309  <dp>=   0.7137
+v9a         : <q>=  -0.6075  <dq>=   0.7000  <p>=   0.0772  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      68.00 fs,       CPU =       0.57 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0038 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00531336.1314  63.7345
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.5459   0.4541
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.2628  <dq>=   0.7089  <p>=  -0.8728  <dp>=   0.7054
+v6a         : <q>=  -1.2787  <dq>=   0.7008  <p>=  -1.5784  <dp>=   0.7135
+v9a         : <q>=  -0.5809  <dq>=   0.7000  <p>=   0.1456  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      69.00 fs,       CPU =       0.57 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0041 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00561050.8428  15.2592
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.8574   0.1425
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.4551  <dq>=   0.7065  <p>=  -1.1098  <dp>=   0.7079
+v6a         : <q>=  -1.4579  <dq>=   0.7010  <p>=  -1.6060  <dp>=   0.7133
+v9a         : <q>=  -0.5388  <dq>=   0.7000  <p>=   0.2057  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      70.00 fs,       CPU =       0.58 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0043 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0055 974.9038   4.2697
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9567   0.0433
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.6894  <dq>=   0.7040  <p>=  -1.3054  <dp>=   0.7104
+v6a         : <q>=  -1.6391  <dq>=   0.7012  <p>=  -1.6133  <dp>=   0.7131
+v9a         : <q>=  -0.4838  <dq>=   0.7000  <p>=   0.2542  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      71.00 fs,       CPU =       0.59 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0043 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0051 964.4581   1.1189
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9885   0.0114
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.9569  <dq>=   0.7019  <p>=  -1.4523  <dp>=   0.7125
+v6a         : <q>=  -1.8199  <dq>=   0.7016  <p>=  -1.6003  <dp>=   0.7127
+v9a         : <q>=  -0.4189  <dq>=   0.7000  <p>=   0.2883  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      72.00 fs,       CPU =       0.59 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0039 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0043 975.7934   0.2830
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9971   0.0029
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.2477  <dq>=   0.7003  <p>=  -1.5451  <dp>=   0.7140
+v6a         : <q>=  -1.9981  <dq>=   0.7020  <p>=  -1.5670  <dp>=   0.7123
+v9a         : <q>=  -0.3477  <dq>=   0.7000  <p>=   0.3062  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      73.00 fs,       CPU =       0.60 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0035 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0037 984.1182   0.1223
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9987   0.0013
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.5509  <dq>=   0.6995  <p>=  -1.5802  <dp>=   0.7148
+v6a         : <q>=  -2.1715  <dq>=   0.7025  <p>=  -1.5140  <dp>=   0.7118
+v9a         : <q>=  -0.2744  <dq>=   0.7000  <p>=   0.3068  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      74.00 fs,       CPU =       0.60 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0040 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0050 983.1554   0.1671
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9982   0.0017
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.8551  <dq>=   0.6995  <p>=  -1.5565  <dp>=   0.7149
+v6a         : <q>=  -2.3378  <dq>=   0.7029  <p>=  -1.4418  <dp>=   0.7114
+v9a         : <q>=  -0.2029  <dq>=   0.7000  <p>=   0.2900  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      75.00 fs,       CPU =       0.61 s,    Norm    = 1.00000000
+ E-tot =   0.687536 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0053 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687536 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0075 977.6353   0.4711
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9950   0.0049
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.1492  <dq>=   0.6999  <p>=  -1.4747  <dp>=   0.7145
+v6a         : <q>=  -2.4950  <dq>=   0.7033  <p>=  -1.3514  <dp>=   0.7110
+v9a         : <q>=  -0.1375  <dq>=   0.7000  <p>=   0.2569  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      76.00 fs,       CPU =       0.61 s,    Norm    = 1.00000000
+ E-tot =   0.687538 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0066 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687538 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0099 977.7647   1.5388
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9841   0.0158
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.4220  <dq>=   0.7006  <p>=  -1.3379  <dp>=   0.7137
+v6a         : <q>=  -2.6410  <dq>=   0.7038  <p>=  -1.2440  <dp>=   0.7105
+v9a         : <q>=  -0.0817  <dq>=   0.7000  <p>=   0.2092  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      77.00 fs,       CPU =       0.62 s,    Norm    = 1.00000000
+ E-tot =   0.687539 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0077 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687539 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.01171001.0240   4.8674
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9513   0.0486
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.6635  <dq>=   0.7016  <p>=  -1.1512  <dp>=   0.7127
+v6a         : <q>=  -2.7741  <dq>=   0.7044  <p>=  -1.1209  <dp>=   0.7099
+v9a         : <q>=  -0.0388  <dq>=   0.7000  <p>=   0.1498  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      78.00 fs,       CPU =       0.62 s,    Norm    = 1.00000000
+ E-tot =   0.687539 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0084 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687539 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.01271081.0934  15.3828
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.8592   0.1407
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.8645  <dq>=   0.7028  <p>=  -0.9216  <dp>=   0.7116
+v6a         : <q>=  -2.8925  <dq>=   0.7050  <p>=  -0.9836  <dp>=   0.7093
+v9a         : <q>=  -0.0110  <dq>=   0.7000  <p>=   0.0818  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      79.00 fs,       CPU =       0.63 s,    Norm    = 1.00000000
+ E-tot =   0.687540 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0086 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687540 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.01291328.8431  56.8413
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.5889   0.4109
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.0177  <dq>=   0.7041  <p>=  -0.6577  <dp>=   0.7103
+v6a         : <q>=  -2.9948  <dq>=   0.7056  <p>=  -0.8339  <dp>=   0.7087
+v9a         : <q>=  -0.0001  <dq>=   0.7000  <p>=   0.0093  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      80.00 fs,       CPU =       0.63 s,    Norm    = 1.00000000
+ E-tot =   0.687539 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0083 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687539 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.01232602.4049 403.1210
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   8.6576   1.3423
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.1173  <dq>=   0.7054  <p>=  -0.3692  <dp>=   0.7090
+v6a         : <q>=  -3.0797  <dq>=   0.7061  <p>=  -0.6737  <dp>=   0.7082
+v9a         : <q>=  -0.0067  <dq>=   0.7000  <p>=  -0.0638  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      81.00 fs,       CPU =       0.65 s,    Norm    = 1.00000000
+ E-tot =   0.687539 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0079 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687539 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.01101521.4481 279.4401
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   8.4499   1.5500
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.1596  <dq>=   0.7065  <p>=  -0.0669  <dp>=   0.7079
+v6a         : <q>=  -3.1460  <dq>=   0.7065  <p>=  -0.5049  <dp>=   0.7079
+v9a         : <q>=  -0.0302  <dq>=   0.7000  <p>=  -0.1332  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      82.00 fs,       CPU =       0.66 s,    Norm    = 1.00000000
+ E-tot =   0.687538 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0073 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687538 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0092 954.5767 108.5299
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   8.9801   1.0198
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.1431  <dq>=   0.7072  <p>=   0.2378  <dp>=   0.7072
+v6a         : <q>=  -3.1929  <dq>=   0.7067  <p>=  -0.3298  <dp>=   0.7077
+v9a         : <q>=  -0.0695  <dq>=   0.7000  <p>=  -0.1952  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      83.00 fs,       CPU =       0.66 s,    Norm    = 1.00000000
+ E-tot =   0.687538 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0065 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687538 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0072 809.9400  62.5204
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.2840   0.7159
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -3.0682  <dq>=   0.7076  <p>=   0.5337  <dp>=   0.7068
+v6a         : <q>=  -3.2200  <dq>=   0.7066  <p>=  -0.1505  <dp>=   0.7077
+v9a         : <q>=  -0.1224  <dq>=   0.7000  <p>=  -0.2461  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      84.00 fs,       CPU =       0.67 s,    Norm    = 1.00000000
+ E-tot =   0.687537 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0056 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687537 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0051 757.4713  41.7964
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.4774   0.5225
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.9379  <dq>=   0.7075  <p>=   0.8097  <dp>=   0.7069
+v6a         : <q>=  -3.2267  <dq>=   0.7064  <p>=   0.0306  <dp>=   0.7080
+v9a         : <q>=  -0.1857  <dq>=   0.7000  <p>=  -0.2831  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      85.00 fs,       CPU =       0.67 s,    Norm    = 1.00000000
+ E-tot =   0.687536 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0047 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687536 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0031 742.6067  29.8360
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.6140   0.3860
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.7570  <dq>=   0.7070  <p>=   1.0555  <dp>=   0.7073
+v6a         : <q>=  -3.2131  <dq>=   0.7060  <p>=   0.2114  <dp>=   0.7084
+v9a         : <q>=  -0.2560  <dq>=   0.7000  <p>=  -0.3041  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      86.00 fs,       CPU =       0.68 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0040 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0016 751.1216  21.7562
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.7186   0.2814
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.5322  <dq>=   0.7062  <p>=   1.2619  <dp>=   0.7082
+v6a         : <q>=  -3.1793  <dq>=   0.7054  <p>=   0.3896  <dp>=   0.7090
+v9a         : <q>=  -0.3292  <dq>=   0.7000  <p>=  -0.3080  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      87.00 fs,       CPU =       0.69 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0034 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0005 780.6369  15.6069
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.8040   0.1960
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -2.2719  <dq>=   0.7051  <p>=   1.4213  <dp>=   0.7092
+v6a         : <q>=  -3.1257  <dq>=   0.7046  <p>=   0.5628  <dp>=   0.7097
+v9a         : <q>=  -0.4013  <dq>=   0.7000  <p>=  -0.2944  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      88.00 fs,       CPU =       0.69 s,    Norm    = 1.00000000
+ E-tot =   0.687534 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0032 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687534 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0001 833.2855  10.4629
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.8760   0.1240
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.9858  <dq>=   0.7040  <p>=   1.5277  <dp>=   0.7104
+v6a         : <q>=  -3.0530  <dq>=   0.7038  <p>=   0.7289  <dp>=   0.7106
+v9a         : <q>=  -0.4682  <dq>=   0.7000  <p>=  -0.2643  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      89.00 fs,       CPU =       0.70 s,    Norm    = 1.00000000
+ E-tot =   0.687534 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0032 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687534 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0004 907.1719   5.9845
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9344   0.0656
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.6846  <dq>=   0.7029  <p>=   1.5771  <dp>=   0.7114
+v6a         : <q>=  -2.9622  <dq>=   0.7029  <p>=   0.8857  <dp>=   0.7115
+v9a         : <q>=  -0.5260  <dq>=   0.7000  <p>=  -0.2192  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      90.00 fs,       CPU =       0.71 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0036 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0014 978.9817   2.5196
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9743   0.0257
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.3796  <dq>=   0.7020  <p>=   1.5677  <dp>=   0.7123
+v6a         : <q>=  -2.8543  <dq>=   0.7019  <p>=   1.0315  <dp>=   0.7124
+v9a         : <q>=  -0.5716  <dq>=   0.7000  <p>=  -0.1617  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      91.00 fs,       CPU =       0.71 s,    Norm    = 1.00000000
+ E-tot =   0.687535 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0044 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687535 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00291012.1967   0.6873
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9932   0.0068
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -1.0820  <dq>=   0.7014  <p>=   1.4999  <dp>=   0.7129
+v6a         : <q>=  -2.7307  <dq>=   0.7011  <p>=   1.1641  <dp>=   0.7133
+v9a         : <q>=  -0.6023  <dq>=   0.7000  <p>=  -0.0951  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      92.00 fs,       CPU =       0.72 s,    Norm    = 1.00000000
+ E-tot =   0.687536 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0053 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687536 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00471011.3594   0.1265
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0000   9.9987   0.0012
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.8030  <dq>=   0.7011  <p>=   1.3761  <dp>=   0.7132
+v6a         : <q>=  -2.5931  <dq>=   0.7003  <p>=   1.2821  <dp>=   0.7140
+v9a         : <q>=  -0.6165  <dq>=   0.7000  <p>=  -0.0231  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      93.00 fs,       CPU =       0.72 s,    Norm    = 1.00000000
+ E-tot =   0.687537 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0062 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687537 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00661004.6918   0.0218
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9997   0.0002
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.5530  <dq>=   0.7010  <p>=   1.2010  <dp>=   0.7133
+v6a         : <q>=  -2.4430  <dq>=   0.6997  <p>=   1.3839  <dp>=   0.7146
+v9a         : <q>=  -0.6132  <dq>=   0.7000  <p>=   0.0502  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      94.00 fs,       CPU =       0.73 s,    Norm    = 1.00000000
+ E-tot =   0.687538 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0070 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687538 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00831002.4354   0.0089
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9998   0.0001
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.3414  <dq>=   0.7011  <p>=   0.9811  <dp>=   0.7132
+v6a         : <q>=  -2.2825  <dq>=   0.6995  <p>=   1.4683  <dp>=   0.7148
+v9a         : <q>=  -0.5928  <dq>=   0.7000  <p>=   0.1207  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      95.00 fs,       CPU =       0.74 s,    Norm    = 1.00000000
+ E-tot =   0.687539 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0077 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687539 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.00961004.0162   0.0255
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9997   0.0003
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.1759  <dq>=   0.7015  <p>=   0.7247  <dp>=   0.7129
+v6a         : <q>=  -2.1136  <dq>=   0.6995  <p>=   1.5340  <dp>=   0.7148
+v9a         : <q>=  -0.5563  <dq>=   0.7000  <p>=   0.1843  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      96.00 fs,       CPU =       0.75 s,    Norm    = 1.00000000
+ E-tot =   0.687539 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0080 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687539 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.01041004.2583   0.2153
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9978   0.0021
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0628  <dq>=   0.7022  <p>=   0.4412  <dp>=   0.7121
+v6a         : <q>=  -1.9383  <dq>=   0.6998  <p>=   1.5805  <dp>=   0.7146
+v9a         : <q>=  -0.5058  <dq>=   0.7000  <p>=   0.2375  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      97.00 fs,       CPU =       0.76 s,    Norm    = 1.00000000
+ E-tot =   0.687539 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0082 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687539 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0111 972.4503   1.3438
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9861   0.0138
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0063  <dq>=   0.7036  <p>=   0.1413  <dp>=   0.7108
+v6a         : <q>=  -1.7590  <dq>=   0.7001  <p>=   1.6069  <dp>=   0.7142
+v9a         : <q>=  -0.4442  <dq>=   0.7000  <p>=   0.2773  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      98.00 fs,       CPU =       0.76 s,    Norm    = 1.00000000
+ E-tot =   0.687540 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0085 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687540 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0118 898.1489   4.4155
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.9508   0.0491
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0085  <dq>=   0.7054  <p>=  -0.1639  <dp>=   0.7090
+v6a         : <q>=  -1.5778  <dq>=   0.7004  <p>=   1.6131  <dp>=   0.7139
+v9a         : <q>=  -0.3749  <dq>=   0.7000  <p>=   0.3015  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =      99.00 fs,       CPU =       0.77 s,    Norm    = 1.00000000
+ E-tot =   0.687540 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0089 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687540 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0125 829.0610   9.4058
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.8874   0.1125
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.0693  <dq>=   0.7075  <p>=  -0.4630  <dp>=   0.7069
+v6a         : <q>=  -1.3970  <dq>=   0.7007  <p>=   1.5989  <dp>=   0.7136
+v9a         : <q>=  -0.3019  <dq>=   0.7000  <p>=   0.3086  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+ Time  =     100.00 fs,       CPU =       0.77 s,    Norm    = 1.00000000
+ E-tot =   0.687540 ev,    E-corr =   0.000000 ev,   Delta-E =     0.0094 mev
+
+ state = 1  pop.: 0.00000000   E-corr:  -0.000000 ev,   E-tot =  -0.000000 ev
+ state = 2  pop.: 1.00000000   E-corr:   0.000000 ev,   E-tot =   0.687540 ev
+
+ Diagonal Densities *1000,  state = 1
+v1        C  4:   0.0000   0.0000   0.0000
+
+ Gross Gaussian Populations *10 (weighted),  state = 1
+v1      ReC 4:   0.0000   0.0000   0.0000
+
+ Mode expectation values and variances,  state = 1
+v1          : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v6a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v9a         : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+v10a        : <q>=   0.0000  <dq>=   0.0000  <p>=   0.0000  <dp>=   0.0000
+
+ Diagonal Densities *1000,  state = 2
+v1        C  4:   0.0133 791.0001  16.5024
+
+ Gross Gaussian Populations *10 (weighted),  state = 2
+v1      ReC 4:   0.0001   9.7949   0.2049
+
+ Mode expectation values and variances,  state = 2
+v1          : <q>=  -0.1865  <dq>=   0.7094  <p>=  -0.7448  <dp>=   0.7050
+v6a         : <q>=  -1.2190  <dq>=   0.7010  <p>=   1.5645  <dp>=   0.7133
+v9a         : <q>=  -0.2293  <dq>=   0.7000  <p>=   0.2983  <dp>=   0.7143
+v10a        : <q>=   0.0000  <dq>=   0.7000  <p>=   0.0000  <dp>=   0.7143
+------------------------------------------------------------------------------
+
+
+Propagation was successful.
+
+Total time     [h:m:s] :    0 :  0 :  0.77
+
+ ---------------------------------------------------------------------------
+ ------ Host: "tp-linux1" ----------Mon Feb 20 16:17:49 2017
+            
+ /home/thomas/fs-XAS-test01/pyrazine/dynamics/pyr4
+   pyrazine 4-mode multi-set, linear model, no combinations.                   
