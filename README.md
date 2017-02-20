@@ -303,7 +303,15 @@ D = displace_coords(Coords,imode,Factor)
 
 ## Files
 
+[will add description of important files]
+
 ## Dependencies 
 
 Python 2.7 
+
+## To Do
+
+Run qchem calculations for each output (xyz) file 
+
+Write script to generate total spectrum (from qchem output files, using weights from xyz files) for chosen time-step
 
