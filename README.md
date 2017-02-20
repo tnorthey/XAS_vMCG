@@ -160,10 +160,9 @@ write_xyz(AtomList,Coords,fname)
 - Coords (float list), coordinates as column vector with the format X1,Y1,Z1,X2,Y2,Z2,... 
 
 - fname (str), output xyz file name
-  
-#####Outputs   
-- 'fname' (file), xyz file
-
+ 
+- comment (str), comment line in the xyz file
+ 
 
 ### read_displacements 
 
