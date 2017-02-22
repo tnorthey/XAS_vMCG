@@ -286,7 +286,7 @@ def linspace(a, b, n=100):
 
 def generator_(tstep,istate):
    ##################################################
-   # generator_: Generates xyz files for all modes and all Gaussians for time-step 'tstep' and state 'istate'
+   # generator_: Generates xyz files (with the spectral weighting in the comment line) for all Gaussians for time-step 'tstep' and state 'istate'   
    # Inputs:    tstep (int), time-step number (0,1,2,...)
    #            istate (int), electronic state (1,2)
    ##################################################
@@ -298,27 +298,27 @@ def generator_(tstep,istate):
    AtomList,R0 = read_xyz(xyzfile)
    Nmode,Ng,Timeau,v = read_gwpcentres(Nstate,istate)
    Timefs,gWeights = read_output(Nstate,Ng)   # Read time-steps (fs), and Gaussian weights      
-
+   au2ang = 0.52918
+   
    print 'Time = ' + str(Timefs[tstep]) + ' (fs)'
    
    ####################################################
    
-   D=R0						# Starting coordinates
    for j in range(Ng):			# Loop over Gaussians
+      D=R0						# Starting coordinates
       # gWeights[column][row] = gWeights[Gaussian index][time-step 1: state 1, state 2, ...; time-step 2: state 1, state 2, ...; ...]
       A = gWeights[j][istate-1+Nstate*tstep]     
       for i in range(len(Modes)):			# Loop over modes
          imode=Modes[i]				# Mode number
          # v[column][row] = v[mode index][Gaussian index]
-         Factor = v[i][Ng*tstep+j]		# Displacement factor in atomic units of length
+         Factor = v[i][Ng*tstep+j]*au2ang	# Displacement factor in atomic units of length (then converted to Angstrom)
          # print Factor
          D = displace_coords(D,imode,Factor)	# Displace coordinates along mode 'imode' by 'Factor'
       if A>1e-2:				# Only write xyz file if weighting coeff. is non-negligible 
-         fname='tstep' + str(tstep) + 'g' + str(j)  + '.xyz'	# Output file name
+         fname='state' + str(istate) + 'tstep' + str(tstep) + 'g' + str(j)  + '.xyz'	# Output file name
          comment=str(A)
          write_xyz(AtomList,D,fname,comment)	# write to xyz
    ####################################################
    return
-
 
 

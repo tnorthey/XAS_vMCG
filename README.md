@@ -1,8 +1,8 @@
-# CODE_displace_coords
+# XAS_vMCG
 
 ## Description
 
-Calculate X-ray absorption spectra from a quantum dynamics trajectory for pyrazine (4-mode 2-state model).  
+Calculate X-ray absorption spectra from a quantum dynamics (vMCG) trajectory for pyrazine (4-mode 2-state model).  
 
 ## Example Usage
 
@@ -45,7 +45,7 @@ for j in range(6):
    string = str(v[0][j]) + ' ' + str(v[1][j]) + ' ' + str(v[2][j]) + ' ' + str(v[3][j])
    print string.split()
 ```
-gives the first 6 displacements for state 1 and the four modes (columns), in this case corresponding to exactly two time-steps,
+gives the first six (three Gaussians per time-step) displacements for state 1 and the four modes (columns), in this case corresponding to exactly two time-steps,
 
 ```
 ['0.0', '0.0', '0.0', '0.0']
@@ -299,6 +299,21 @@ D = displace_coords(Coords,imode,Factor)
 
 #####Outputs   
 - D (float list), displaced coordinates with same formatting as 'Coords'
+
+
+### generator_(tstep,istate):
+
+#####Description
+Generates xyz files (with the spectral weighting in the comment line) for all Gaussians for time-step 'tstep' and state 'istate'
+
+#####Usage
+```python
+generator_(tstep,istate)
+```
+
+#####Inputs    
+- tstep (int), time-step number (0,1,2,...)
+- istate (int), electronic state (1,2)
 
 
 ## Files

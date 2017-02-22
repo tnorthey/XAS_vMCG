@@ -4,7 +4,7 @@ $rem
 jobtype      sp
 sym_ignore true
 exchange     hf
-basis        6-31G*
+basis        6-311+G*
 unrestricted true
 $end
 
@@ -21,7 +21,7 @@ $end
 $rem
    JOBTYPE           SP
    EXCHANGE          HF
-   BASIS             6-31G*
+   BASIS             6-311+G*
    SCF_GUESS         READ
    MOM_START         1
    UNRESTRICTED      TRUE
@@ -49,7 +49,7 @@ sym_ignore true
 mom_start 1
 scf_guess read
 method cvs-adc(2)-x
-basis 6-31G*
+basis 6-311+G*
 ee_singlets 20
 cc_rest_occ 1                  !only excitations from the 1st orbital (N 1s)
 unrestricted  true

@@ -4,7 +4,7 @@ $rem
 jobtype      sp
 sym_ignore true
 exchange     hf
-basis        6-31G*
+basis        6-311+G*
 unrestricted true
 $end
 
@@ -21,7 +21,7 @@ $end
 $rem
    JOBTYPE           SP
    EXCHANGE          HF
-   BASIS             6-31G*
+   BASIS             6-311+G*
    SCF_GUESS         READ
    MOM_START         1
    UNRESTRICTED      TRUE
@@ -52,7 +52,7 @@ method cvs-adc(2)-x
 ADC_DAVIDSON_MAXSUBSPACE 300   !subspace is n times number of excited states to be calculated, default=5
 ADC_DAVIDSON_CONV 6	       !converge to 10^-n, default n=6
 ADC_DAVIDSON_MAXITER 60        !Controls the maximum number of iterations of the Davidson procedure. Default = 60
-basis 6-31G*
+basis 6-311+G*
 ee_singlets 20 
 cc_rest_occ 1                  !only excitations from the 1st orbital (N 1s)
 unrestricted  true
