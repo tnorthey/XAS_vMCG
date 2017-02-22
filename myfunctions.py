@@ -24,6 +24,7 @@ def write_xyz(AtomList,Coords,fname,comment):
    # Inputs:	AtomList (string list), list of atomic labels
    # 		Coords (float list), coordinates as column vector with the format X1,Y1,Z1,X2,Y2,Z2,... 
    # 		fname (str), output xyz file name  
+   #		comment (str), comment line in the xyz file
    # Outputs:	'fname' (file), xyz file
    ##################################################
    Nat=len(AtomList)					# Number of atoms
@@ -227,12 +228,13 @@ def read_src(SRCoutput):
    return XAS
 
 
-def generate_spectrum(XAS):
+def generate_spectrum(XAS,fwhm):
    ##################################################
    # generate_spectrum: Generates spectrum with Lorentzian broadened lines (with FWHM=0.5 eV) 
-   # Inputs:    XAS (float array), XAS[0] = energies, XAS[1] = oscillator strengths
+   # Inputs:    XAS (float array), XAS[0] = energies (eV), XAS[1] = oscillator strengths
+   # 		fwhm (float), full-width half-maximum for Lorentzian broadening (eV) e.g. 0.5 eV
    # Outputs:   x (float list), x-axis energies (eV)
-   # 		spect (float list), spectrum (arb. units) with Lorentzian broadened lines with FWHM=0.5 eV 
+   # 		spect (float list), spectrum (arb. units) with Lorentzian broadened lines 
    ##################################################
    E=XAS[0]			# Line energies
    Emin=int(E[0]-1.5)		# Min energy
@@ -246,7 +248,6 @@ def generate_spectrum(XAS):
    for i in range(len(x)):
       spect.append(float(0.))	# define spectrum blank list
   
-   fwhm=.5			# 0.5 eV width 
    g=(fwhm/2.)**2		# Factor in Lorentzian function
    for j in range(len(A)):
       a=A[j]			# amplitude of line j
@@ -284,23 +285,22 @@ def linspace(a, b, n=100):
     return [diff * i + a  for i in range(n)]
 
 
-def generator_(tstep,istate):
+def generator_(tstep,istate,Nstate,Modes,xyzfile):
    ##################################################
    # generator_: Generates xyz files (with the spectral weighting in the comment line) for all Gaussians for time-step 'tstep' and state 'istate'   
    # Inputs:    tstep (int), time-step number (0,1,2,...)
-   #            istate (int), electronic state (1,2)
+   #            istate (int), electronic state (1,2,...)
+   # 		Nstate (int), total number of states
+   # 		Modes (int array), normal mode numbers e.g. [11,3,14,8]
+   # 		xyzfile (str), path of xyz file containing initial coordinates (usually the equilibrium geometry)
    ##################################################
 
-   Nstate=2 				# Number of states: 2 state model
-   Modes=[11,3,14,8] 			# Known from comparison to pyrazine 4-mode model paper 
-   xyzfile='inputs/equilibrium.xyz'	# initial xyz coordinates
-   
    AtomList,R0 = read_xyz(xyzfile)
    Nmode,Ng,Timeau,v = read_gwpcentres(Nstate,istate)
    Timefs,gWeights = read_output(Nstate,Ng)   # Read time-steps (fs), and Gaussian weights      
    au2ang = 0.52918
    
-   print 'Time = ' + str(Timefs[tstep]) + ' (fs)'
+   print 'generator_: Generating xyz files for t = ' + str(Timefs[tstep]) + ' (fs)'
    
    ####################################################
    

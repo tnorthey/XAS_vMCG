@@ -14,7 +14,8 @@ elif option=='src':
 else: 
    print "Error: Pick option='ADC' or 'SRC'"
 
-x,spect = generate_spectrum(XAS)	# generate spectrum
+fwhm=.5					# 0.5 eV FWHM for Lorentzian broadening 
+x,spect = generate_spectrum(XAS,fwhm)	# generate spectrum
 
 # Write spectrum to file
 with open('spectrum.dat','w') as f:
