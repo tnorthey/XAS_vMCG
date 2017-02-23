@@ -9,6 +9,6 @@ Modes=[11,3,14,8] 			# Known from comparison to pyrazine 4-mode model paper
 xyzfile='inputs/equilibrium.xyz'	# initial xyz coordinates
 
 # Generate xyz files
-generator_(tstep,istate,Nstate,xyzfile)
+generator_(tstep,istate,Nstate,Modes,xyzfile)
 
 

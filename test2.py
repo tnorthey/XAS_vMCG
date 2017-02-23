@@ -12,7 +12,7 @@ Time,gWeights = read_output(Nstate,Ng)	 # Read time-steps (fs), and Gaussian wei
 print "Displacement factors:"
 
 # Test printing out the displacement factors
-for j in range(6):
+for j in range(2*Ng):
    string = str(v[0][j]) + ' ' + str(v[1][j]) + ' ' + str(v[2][j]) + ' ' + str(v[3][j])
    print string.split()
 

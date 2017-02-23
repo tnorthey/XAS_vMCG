@@ -8,14 +8,17 @@ def read_xyz(fname):
    with open(fname,'r') as f:			# open file   
       AtomList=[]; Coords=[]
       c=0
-      for i in range(2):
-         f.next()				# Skip first 2 lines
-      for line in f:				
-         AtomList.append(line.split()[0]) 	# List of atomic labels
-         for i in range(1,4):
-            Coords.append(float(line.split()[i]))
+      f.next()					# Skip line
+      for line in f:
+         c+=1				
+         if c==1:
+            comment = line
+	 else:
+            AtomList.append(line.split()[0]) 	# List of atomic labels
+            for i in range(1,4):
+               Coords.append(float(line.split()[i]))
    ##################################################dd
-   return AtomList,Coords
+   return AtomList,Coords,comment
 
 
 def write_xyz(AtomList,Coords,fname,comment):
@@ -78,7 +81,7 @@ def read_displacements(Nat,imode):
    Displc=[]
    with open('inputs/normalmodes.txt','r') as f:
       for line in f:
-         c=c+1
+         c+=1
          if c>a and c<=b:
             Displc.append(float(line.split()[imode+2-d]))
    ##################################################
@@ -295,7 +298,7 @@ def generator_(tstep,istate,Nstate,Modes,xyzfile):
    # 		xyzfile (str), path of xyz file containing initial coordinates (usually the equilibrium geometry)
    ##################################################
 
-   AtomList,R0 = read_xyz(xyzfile)
+   AtomList,R0,comment = read_xyz(xyzfile)
    Nmode,Ng,Timeau,v = read_gwpcentres(Nstate,istate)
    Timefs,gWeights = read_output(Nstate,Ng)   # Read time-steps (fs), and Gaussian weights      
    au2ang = 0.52918

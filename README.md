@@ -41,12 +41,12 @@ Nstate=2                                # Total number of states
 # Read list of time-steps (atomic units) and displacement factors
 Nmode,Ng,Time,v = read_gwpcentres(Nstate,istate) 
 
-for j in range(6):
+for j in range(2*Ng):
    string = str(v[0][j]) + ' ' + str(v[1][j]) + ' ' + str(v[2][j]) + ' ' + str(v[3][j])
    print string.split()
 ```
 gives the first six (three Gaussians per time-step) displacements for state 1 and the four modes (columns), in this case corresponding to exactly two time-steps,
-
+:
 ```
 ['0.0', '0.0', '0.0', '0.0']
 ['0.9352661232', '0.0', '0.0', '0.0']
@@ -326,7 +326,6 @@ Python 2.7
 
 ## To Do
 
-Run qchem calculations for each output (xyz) file 
-
 Write script to generate total spectrum (from qchem output files, using weights from xyz files) for chosen time-step
+
 
