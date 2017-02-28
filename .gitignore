@@ -1,0 +1,5 @@
+*.pyc
+qchem/nohup.out
+qchem/pathtable
+qchem/PI*
+qchem/*.inp_*.*

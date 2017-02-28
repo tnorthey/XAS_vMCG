@@ -301,20 +301,21 @@ D = displace_coords(Coords,imode,Factor)
 - D (float list), displaced coordinates with same formatting as 'Coords'
 
 
-### generator_(tstep,istate):
+### generator_
 
 #####Description
 Generates xyz files (with the spectral weighting in the comment line) for all Gaussians for time-step 'tstep' and state 'istate'
 
 #####Usage
 ```python
-generator_(tstep,istate)
+generator_(tstep,istate,Nstate,Modes,xyzfile)
 ```
-
 #####Inputs    
 - tstep (int), time-step number (0,1,2,...)
 - istate (int), electronic state (1,2)
-
+- Nstate (int), total number of states
+- Modes (int array), normal mode numbers e.g. [11,3,14,8]
+- xyzfile (str), path of xyz file containing initial coordinates (usually the equilibrium geometry)
 
 ## Files
 
