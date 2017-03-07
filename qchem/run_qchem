@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for i in state*.inp
+do
+	qchem -nt 8 $i ${i%.*}.out
+done
