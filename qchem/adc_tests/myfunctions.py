@@ -133,7 +133,7 @@ def read_gwpcentres(Nstate,istate):
    return Nmode,Ng,Time,v 
 
 
-def read_output(fname,Nstate,Ng):
+def read_output(Nstate,Ng):
    ##################################################
    # read_output: Read Gaussian weights (and state weights) from file 'output' for state 'istate'.
    # Inputs: 	Nstate (int), total number of states
@@ -145,20 +145,18 @@ def read_output(fname,Nstate,Ng):
    X=0; c=0; j=0
    for i in range(Ng):
       gWeights.append([])
-   with open(fname,'r') as f:
+   with open('inputs/output','r') as f:
       for line in f:
          if line[1:5]=='Time':
             Time.append(float(line.split()[2]))
 	 elif line[1:len('Gross Gaussian Populations')+1]=='Gross Gaussian Populations':
-            if Nstate>1:
-               istate = int(line.split()[7])			# state number = 1,2,...
+            istate = int(line.split()[7])			# state number = 1,2,...
             X=(Ng-1)/7+1					# Causes the next X lines to be read in the following elif block
 	 elif X>0:
 	    c+=1						# Line counter for Gaussian populations part
 	    for i in range(7):
 	       j+=1
-               string=line.split(":", 1)[1]
-	       gWeights[i+7*(c-1)].append(float(string.split()[i]))
+	       gWeights[i+7*(c-1)].append(float(line.split()[3+i]))
 	       if j==Ng:					# break after Ng floats have been appended to gWeights
 	          break
             if c==X:
@@ -327,23 +325,3 @@ def generator_(tstep,istate,Nstate,Modes,xyzfile):
    return
 
 
-def read_ddtraj(fname):
-   ##################################################
-   # read_ddtraj:  Reads ddtraj file 'fname' (usually ddtraj.pl)
-   # Inputs:    fname, the file name of the ddtraj file to read
-   # Outputs:   AtomList (string list), list of atomic labels; 
-   #            Coords (float list), coordinates as column vector with the format X1,Y1,Z1,X2,Y2,Z2,...
-   ##################################################
-   import re            # import regular expression
-   pattern = re.compile("    \d          ")   # pattern to match
-   with open(fname,'r') as f: # open file   
-      AtomList=[]; Coords=[]
-      for line in f:
-         if pattern.match(line):
-            #print line
-            AtomList.append(line.split()[1])    # List of atomic labels
-            for i in range(3,6):
-                Coords.append(float(line.split()[i]))
-
-   ##################################################dd
-   return AtomList,Coords
